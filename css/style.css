@@ -108,6 +108,7 @@ nav img{
     margin-left: 200px;
 }
 
+/* main */
 main{
     margin-top: 300px;
 }
@@ -125,7 +126,7 @@ main{
 }
 
 .first{
-    width: 27%;
+    width: 30%;
     height: 800px;
     margin-top: 30px;
     display: inline-block;
@@ -170,10 +171,50 @@ main{
 
 }
 
+.secondo{
+    margin-top: 100px;
+}
 
+.uomini img{
+    width: 50%;
+    float: left;
+    margin-right: 200px;
+}
 
+.partner{
+    margin-top: 150px;
+}
+.partner h2{
+    margin-bottom: 30px;
+}
+.partner p{
+    line-height: 1,5em;
+}
 
+.partner a{
+    border: 1px solid black;
+    padding: 5px 8px;
+    line-height: 5em;
+}
 
+.terzo{
+    height: 1000px;
+    margin-top: 100px;
+    
+}
 
+.third{
+    width: 30%;
+    display: inline-block;
+}
 
+.primoquadro{
+    margin-top: 60px;
+    width: 100%;
+    height: 300px;
+}
+
+.primoquadro img{
+    width: 100%;
+}
 
