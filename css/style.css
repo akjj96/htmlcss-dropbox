@@ -16,6 +16,11 @@
     margin: 0 auto;
 }
 
+.container2{
+    width: 80%;
+    margin: 0 auto;
+}
+
 .clearfix:after{
     content: '';
     display: table;
@@ -101,12 +106,69 @@ nav img{
     font-size: 20px;
     vertical-align: middle;
     margin-left: 200px;
+}
+
+main{
+    margin-top: 300px;
+}
+
+.seconda{
+    min-width: 1200px;
+    min-height: 1200px;
+}
+.titolo{
+    font-size: 30px;
+}
+
+.input{
+    margin-top: 70px;
+}
+
+.first{
+    width: 27%;
+    height: 800px;
+    margin-top: 30px;
+    display: inline-block;
+    margin-inline-end: 30px;
+    
+}
+
+.singolo{
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+    
+    
+}
+
+.pro{
+    line-height: 3em;
+    margin-left: 20px;
 
 }
 
+.secondopro{
+    line-height: 3em;
+    margin-left: 20px;
 
+}
 
+.doppio{
+    height: 180px;
+    margin-top: 50px;
+}
 
+.team{
+    text-align: center;
+    height: 40px;
+    padding: 10px;
+}
+
+.steam{
+    line-height: 2em;
+    margin-left: 20px;
+
+}
 
 
 
