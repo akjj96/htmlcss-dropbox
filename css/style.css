@@ -1,0 +1,117 @@
+/* reset */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/* utility */
+
+.debug{
+    border: 1px solid black;
+}
+
+.container1{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.clearfix:after{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.btn{
+    padding: 2px 5px;
+    background-color: blue;
+    color: #fff;
+    text-decoration: none;
+
+}
+/* header */
+
+header{
+    height: 700px;
+}
+
+
+nav{
+    height: 70px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+nav ul{
+    list-style: none;
+    text-decoration: none;
+    
+    
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 20px;
+    vertical-align: middle;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+
+nav .logo{
+    min-width: 127px;
+    width: 15%;
+}
+nav img{
+    width: 150px;
+}
+
+#jumbotron{
+    background-color: skyblue;
+    min-height: 600px;
+}
+#jumbotron h1{
+    font-size: 80px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+#jumbotron .testo img{
+    width: 900px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+#jumbotron p{
+    font-size: 20px;
+    vertical-align: middle;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+#jumbotron a{
+    font-size: 20px;
+    vertical-align: middle;
+    margin-left: 200px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
